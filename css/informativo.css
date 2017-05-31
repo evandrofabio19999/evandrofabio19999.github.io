@@ -1,0 +1,144 @@
+/* informativo */
+/*div{border: black solid 1px;} */
+
+body{
+     background-color: #BBFFFF; }
+
+.texto_center{
+text-align: center;
+color: green ;
+
+
+}
+/* A Equipe */
+
+
+.texto-centroh3{
+
+text-align: center;
+color: blue;
+
+}
+/* o que fazemos */
+
+.parte1{
+      background-color: blue;
+                    color: yellow; 
+                     text-align:center;
+}
+
+.parte2{  
+        background-color: Aqua;
+            color: red;
+              text-align: center;
+}
+.parte3{ 
+        background-color: yellow;
+        color: blue;
+           text-align: center; 
+}
+
+.img_equi {
+	  background-color: #fff;
+	  color: black; 
+           text-align: center;  
+}
+
+
+ .text_equi{
+          margin-top: 10px;
+          text-align: center;
+         color: #000;
+        font-weight: bold;
+}
+/* formulario */
+.img-form{
+       text-align: center;
+}
+
+/* Roda pé */
+.footer{ 
+      background-color: #000;
+ }
+
+/* posts */
+.data{ background-color: #468284;
+  text-align: center; 
+       color: #fff; 
+}
+
+.dia{ font-size: 50px;
+
+}
+
+.titulo{
+        font-size: 50px;
+        font-weight: bold;
+        color: #000080;
+        padding: 12px;
+
+  }
+
+.escrito{ font-size: 20px;
+         color: #fff;
+
+}
+
+.img{
+text-align: center;
+padding: 20px;
+}
+
+
+.textcont{  padding: 10px;
+           font-size: 15px;
+           text-align: justify;
+
+}
+
+/* Login */
+
+.borda_iden{ border: solid 1px blue;
+  border-radius: 1px;
+
+}
+
+
+
+.textodesenvolve{font-size: 15px;
+                 text-align: center;}
+
+.textarea{font-size: 15px;
+         text-align: justify;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
